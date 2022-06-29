@@ -3,13 +3,16 @@
 - I'm a FrontEnd developer with a passion for tech
 - I love working in teams to build solutions to real life problems
 - I'm curious and eager to learn
+- I'm a fast learner and I'm always looking for new ways to improve myself
+- I'm a team player and I'm always ready to help others
+- I'm a problem solver and I'm always looking for the best solution
 
 <br />
 
 ## 💻 Tech Stack
 
 - Language: HTML5 & CSS3, JavaScript, Typescript and little bit of Python 😎
-- Technologies: React, React Native, Next.js and and MUI
+- Technologies: React, React Native, Next.js TailwindCSS and MUI.
 
 <br />
 
