@@ -7,7 +7,6 @@ SWE (Full stack) & Cyber Security Student. Transitioning to systems programming.
 - Languages: Typescript, Python, Rust & C/C++ 😎
 - Technologies: MERN Stack, transitioning to systems programming.
 
-<!-- ## 📝Stats
+## 📝Stats
 
 ![mxhdiqaim's github stats](https://github-readme-stats.vercel.app/api?username=mxhdiqaim&show_icons=true&count_private=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117)
- -->
