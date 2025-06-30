@@ -2,7 +2,7 @@
 
 <h3>SWE (Full stack) & Cyber Security Student. Transitioning to systems programming. Currently learning Rust, C/C++ foodie. I love Math and Quantitative reasoning but bad at linguistics, foodie 😋</h3>
 
-<p style="opacity: 0;"> <img src="https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat" alt="mxhdiqaim" /> </p>
+<p style="display: none;"> <img src="https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat" alt="mxhdiqaim" /> </p>
 
 <!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxhdiqaim" alt="mxhdiqaim" /></a> </p>
