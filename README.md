@@ -4,7 +4,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat" alt="mxhdiqaim" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxhdiqaim" alt="mxhdiqaim" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxhdiqaim" alt="mxhdiqaim" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
