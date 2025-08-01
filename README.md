@@ -27,4 +27,12 @@ Go lang for cloud/backend, Rust for systems programming/backend and Kubernetes (
 
  <!--START_SECTION:waka-->
 
+```txt
+TypeScript                 15 hrs 50 mins  ████████▓░░░░░░░░░░░░░░░░   34.44 %
+YAML                       13 hrs 7 mins   ███████░░░░░░░░░░░░░░░░░░   28.54 %
+Bash                       7 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+JSON                       3 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+Docker                     1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+```
+
 <!--END_SECTION:waka-->
