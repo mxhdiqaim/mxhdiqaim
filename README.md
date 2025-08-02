@@ -1,24 +1,24 @@
-<h2>Hello, Mahdi here!</h2>
+## Hello, Mahdi here!
 
-<p>
-I'm a software developer with a strong frontend foundation and experience with MERN stack technologies. Currently pursuing a Cyber Security Degree. Lover of Math and Quantitative reasoning, foodie.
-</p>
+    I'm a software developer with a strong frontend foundation and experience with MERN stack technologies. Currently pursuing a Cyber Security Degree. Lover of Math and Quantitative reasoning, foodie.
 
-<h3>Tech I'm working with:</h3>
-- React 
-- TypeScript
+### Tech I'm working with:
+
+- React
+- Typescript
 - NodeJS/Express
-- MongoDB/PostgreSQL & 
-- Dockerisation.
+- MongoDB/PostgreSQL &
+- Dockerisation
+- GCP/Digital Ocean/Heroku
 
-<h3>Tech I am exploring</h3>
+### Tech I am exploring
+
 - Go lang for cloud/backend
-- Rust for systems programming/backend & 
+- Rust for systems programming/backend &
 - Kubernetes (K8s)
+- AWS/Hetzner Cloud
 
-<p> 
-    <img src="https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat" alt="mxhdiqaim" /> 
-</p>
+![mxhdiqaim](https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 📝Stats
 
