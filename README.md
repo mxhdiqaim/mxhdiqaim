@@ -1,6 +1,6 @@
 ## Hello, Mahdi here!
 
-    I'm a software developer with a strong frontend foundation and experience with MERN stack technologies. Currently pursuing a Cyber Security Degree. Lover of Math and Quantitative reasoning, foodie.
+I'm a software developer with a strong frontend foundation and experience with MERN stack technologies. Currently pursuing a Cyber Security Degree. Lover of Math and Quantitative reasoning, foodie.
 
 ### Tech I'm working with:
 
