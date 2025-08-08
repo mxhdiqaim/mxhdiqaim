@@ -28,7 +28,7 @@ I'm a software developer with a strong frontend foundation and experience with M
 
 ![mahdi's github stats](https://github-readme-streak-stats.herokuapp.com/?user=mxhdiqaim&show_icons=true&count_private=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117)
 
-## Actively coding
+## Last 24hr Stats
 
  <!--START_SECTION:waka-->
 
