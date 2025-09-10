@@ -27,8 +27,8 @@ I'm a software developer with a strong frontend foundation and experience with M
 
 
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=mxhdiqaim&show_icons=true&theme=dracula)  | [![Paras GitHub Streak](https://streak-stats.demolab.com/?user=mxhdiqaim&show_icons=true&theme=dracula)](https://git.io/streak-stats) |
-| -- |---------------------------------------------------------------------------------------------------------------------------------------|
+| ![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=mxhdiqaim&show_icons=true&theme=dracula) | [![Paras GitHub Streak](https://streak-stats.demolab.com/?user=mxhdiqaim&show_icons=true&theme=dracula)](https://git.io/streak-stats) |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 
  <!--START_SECTION:waka-->
 
