@@ -21,12 +21,14 @@ I'm a software developer with a strong frontend foundation and experience with M
 ![mxhdiqaim](https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Activity Stats
+<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 
-![mxhdiqaim's github stats](https://github-readme-stats.vercel.app/api?username=mxhdiqaim&show_icons=true&count_private=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxhdiqaim&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mxhdiqaim&exclude_repo=asp_nnl)](https://github.com/mxhdiqaim)
 
-![mahdi's github stats](https://github-readme-streak-stats.herokuapp.com/?user=mxhdiqaim&show_icons=true&count_private=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0d1117)
+<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
+![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=mxhdiqaim&show_icons=true&theme=dracula)  | [![Paras GitHub Streak](https://streak-stats.demolab.com/?user=mxhdiqaim&show_icons=true&theme=dracula)](https://git.io/streak-stats) |
+| -- |---------------------------------------------------------------------------------------------------------------------------------------|
 
  <!--START_SECTION:waka-->
 
@@ -39,7 +41,3 @@ Bash            40 mins         ▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-<!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mxhdiqaim&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
