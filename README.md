@@ -9,7 +9,7 @@ I'm a software developer with a strong frontend foundation and experience with M
 - NodeJS/Express
 - MongoDB/PostgreSQL
 - Dockerisation &
-- GCP/Digital Ocean/Heroku
+- GCP/Digital Ocean/Heroku.
 
 ### Tech I am exploring
 
