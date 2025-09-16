@@ -1,6 +1,6 @@
-## Welcome to my github
+## Welcome to my GitHub
 
-I'm a software developer with a strong frontend foundation and experience with MERN stack technologies. Currently pursuing a Cyber Security Degree. Lover of Math and Quantitative reasoning, foodie.
+I'm a software developer with a strong frontend foundation and experience with MERN stack technologies. Currently pursuing a Cyber Security Degree. Lover of Math and Quantitative reasoning, foodie. Watch out, fellas, Tab user here, not Spaces.
 
 ### Tech I'm working with:
 
