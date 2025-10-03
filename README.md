@@ -33,11 +33,11 @@ I'm a software developer with a strong frontend foundation and experience with M
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   8 hrs 21 mins   ████████████████▒░░░░░░░░   65.67 %
-Python       2 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-HTML         57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
-Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+TypeScript   6 hrs 17 mins   ██████████████▓░░░░░░░░░░   58.87 %
+Python       2 hrs 9 mins    █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+HTML         56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+JSON         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Markdown     20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
