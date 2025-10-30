@@ -13,8 +13,8 @@ I'm a software developer with a strong frontend foundation and experience with M
 
 ### Tech I am exploring
 
-- Go lang for cloud/backend.
-- Rust for systems programming/backend.
+- Go lang for cloud/backend
+- Rust for systems programming/backend
 - Kubernetes (K8s) &
 - AWS/Hetzner Cloud.
 
