@@ -33,11 +33,11 @@ Fresh grad, software developer with a strong frontend foundation and experience 
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript          9 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.81 %
-Python              2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
-YAML                1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.49 %
-Bash                1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
-.env file           55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+TypeScript          13 hrs 52 mins  ████████████████▓░░░░░░░░   66.90 %
+Python              2 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.52 %
+YAML                1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+HTML                48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+.env file           45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
