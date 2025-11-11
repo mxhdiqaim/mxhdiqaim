@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-Fresh grad, software developer with a strong frontend foundation and experience with MERN stack technologies. Lover of Math and Quantitative reasoning, foodie. Watch out, fellas, Tab user here, not Spaces.
+Fresh grad, software engineer, I solve math equations for fun, play Sudoku/Chess (bad at chess) and read comic. Watch out, fellas, Tab user here, not Spaces.
 
 ### Tech I'm working with:
 
@@ -9,7 +9,7 @@ Fresh grad, software developer with a strong frontend foundation and experience 
 - NodeJS/Express
 - MongoDB/PostgreSQL
 - Dockerisation &
-- GCP/Digital Ocean/Heroku.
+- GCP/Digital Ocean/Heroku
 
 ### Tech I am exploring
 
