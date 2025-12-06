@@ -27,8 +27,7 @@ Fresh grad, software engineer, I solve math equations for fun, play Sudoku/Chess
 
 
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-| ![Paras GitHub stats](https://github-readme-stats.vercel.app/api?username=mxhdiqaim&show_icons=true&theme=dracula) | [![Paras GitHub Streak](https://streak-stats.demolab.com/?user=mxhdiqaim&show_icons=true&theme=dracula)](https://git.io/streak-stats) |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+[![Paras GitHub Streak](https://streak-stats.demolab.com/?user=mxhdiqaim&show_icons=true&theme=dracula)](https://git.io/streak-stats)
 
  <!--START_SECTION:waka-->
 
