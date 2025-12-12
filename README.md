@@ -32,11 +32,11 @@ Fresh grad, software engineer, I solve math equations for fun, play Sudoku/Chess
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript     26 hrs 21 mins  ████████████████████████░   96.24 %
-YAML           26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Shell Script   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-.env file      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Bash           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript     28 hrs 39 mins  ████████████████████████░   95.56 %
+YAML           33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Shell Script   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+.env file      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON           10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
