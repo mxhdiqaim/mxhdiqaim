@@ -30,7 +30,7 @@ Fresh grad, software engineer, I solve math equations for fun, play Sudoku/Chess
 
 ```txt
 TypeScript       43 hrs 18 mins  ██████████████████████▒░░   89.72 %
-Markdown         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Markdown         2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 YAML             42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
 JSON             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 .env file        33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
