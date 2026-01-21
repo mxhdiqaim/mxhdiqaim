@@ -29,9 +29,9 @@ Fresh grad, software engineer, I solve math equations for fun, play Sudoku/Chess
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    41 hrs 7 mins   █████████████████████████   99.88 %
-JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript    36 hrs 37 mins  █████████████████████████   99.88 %
+JSON          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Image (svg)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 YAML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 CSS           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
