@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-Fresh grad, software engineer, I solve math equations for fun, play Sudoku and read comic. Watch out, fellas, Tab user here, not Spaces.
+Fresh grad, software engineer, I solve math equations for fun, play Sudoku and read comic.
 
 ### Tech I'm working with:
 
