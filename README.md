@@ -29,11 +29,11 @@ Fresh grad, software engineer, I solve math equations for fun, play Sudoku and r
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       6 hrs 29 mins         █████████████▓░░░░░░░░░░░   55.10 %
-HTML             2 hrs 58 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
-Bash             54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-JSON             32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-GitIgnore file   18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+TypeScript       3 hrs 53 mins         ███████████▒░░░░░░░░░░░░░   45.64 %
+HTML             2 hrs 32 mins         ███████▒░░░░░░░░░░░░░░░░░   29.82 %
+Bash             50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
+JSON             26 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+GitIgnore file   17 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 ```
 
 <!--END_SECTION:waka-->
