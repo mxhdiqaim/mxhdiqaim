@@ -25,15 +25,3 @@ Fresh grad, software engineer, I solve math equations for fun, play Sudoku and r
 <!--- -- Activity Graph ------------------------------------------------------------------------------------------------------------------------------------ -->
 
 <img alt="" src="https://github-readme-activity-graph.vercel.app/graph?username=mxhdiqaim&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-
- <!--START_SECTION:waka-->
-
-```txt
-TypeScript   27 hrs 6 mins         ████████████████████████▓   98.49 %
-Bash         13 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-JSON         10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-JavaScript   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-yarn.lock    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
