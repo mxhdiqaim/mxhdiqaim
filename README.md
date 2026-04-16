@@ -6,10 +6,10 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 - React
 - Typescript
-- NodeJS/Express.
+- NodeJS/Express
 - MongoDB/PostgreSQL
 - Dockerisation &
-- GCP/Digital Ocean/Heroku.
+- GCP/Digital Ocean/Heroku
 
 ### Tech I am exploring
 
