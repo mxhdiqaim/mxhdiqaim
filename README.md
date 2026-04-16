@@ -4,8 +4,8 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 ### Tech I'm working with:
 
-- React.
-- Typescript.
+- React
+- Typescript
 - NodeJS/Express.
 - MongoDB/PostgreSQL
 - Dockerisation &
@@ -15,6 +15,6 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 - Go lang for cloud/backend
 - Rust for systems programming
-- Kubernetes (K8S) & Distributed System.
+- Kubernetes (K8S) & Distributed System
 
 ![mxhdiqaim](https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat)
