@@ -4,7 +4,7 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 ### Tech I'm working with:
 
-- React
+- React.
 - Typescript
 - NodeJS/Express
 - MongoDB/PostgreSQL
