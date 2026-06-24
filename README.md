@@ -15,6 +15,6 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 - Python & Go lang for backend
 - Rust for systems programming
-- Distributed Systems
+- Distributed Systems.
 
 ![mxhdiqaim](https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat)
