@@ -13,8 +13,8 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 ### Tech I am exploring
 
-- Python & Go lang for backend
-- Rust for systems programming
+- Python & Go lang for backend,
+- Rust for systems programming,
 - Distributed Systems.
 
 ![mxhdiqaim](https://komarev.com/ghpvc/?username=mxhdiqaim&label=Profile%20views&color=0e75b6&style=flat)
