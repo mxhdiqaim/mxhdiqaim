@@ -13,6 +13,7 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 ### Tech I am exploring
 
+- Kubernetes 
 - Distributed Systems.
 - Systems programming (OS)
 
