@@ -8,7 +8,8 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 - Typescript
 - NodeJS/Express
 - OLTP Database (PostgreSQL)
-- Containerisation.
+- Containerisation &
+- Cloud.
 
 ### Tech I am exploring
 
