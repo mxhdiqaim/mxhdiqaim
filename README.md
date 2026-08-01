@@ -13,7 +13,7 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 
 ### Tech I am exploring
 
-- Golang (backend)
+- Golang & Rust (backend)
 - Distributed Systems
 - Rust, C/C++ (Systems programming).
 
