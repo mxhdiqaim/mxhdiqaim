@@ -11,7 +11,7 @@ Fresh grad, software engineer. I solve math equations for fun, play Sudoku, and 
 - Containerisation &
 - Cloud.
 
-### Tech I am exploring
+### Tech I am exploring.
 
 - Golang & Rust (backend)
 - Distributed Systems
